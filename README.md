@@ -20,25 +20,24 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 - [**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html)
 
 
-## [Chapter 2: Variables, Expressions and Statements]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter2.html)
-## [Chapter 3:  Python Numbers]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html)
-## [Chapter 4:  Python String]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html)
-## [Chapter 5:  Python Collections]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html)
-## [Chapter 6:  Conditional-Execution]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html)
-## [Chapter 7:  User Define Functions]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html)
-## [Chapter 8:  Python Loops]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html)
-## [Chapter 9:  Python File Handling]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html)
-## [Chapter 10: Python Math Library]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html)
-## [Chapter 11: Collections]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html)
-## [Chapter 12: Collections]
-(https://htmlpreview.github.io/https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html)
+## [**Chapter 2: Variables, Expressions and Statements**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter2.html)
+
+## [**Chapter 3:  Python Numbers**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html)
+
+## [**Chapter 4:  Python String**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html)
+
+## [**Chapter 5:  Python Collections**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html)
+
+## [**Chapter 6:  Conditional-Execution**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html)
+
+## [**Chapter 7:  User Define Functions**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html)
+
+## [**Chapter 8:  Python Loops**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html)
+
+## [**Chapter 9:  Python File Handling**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html)
+
+## [**Chapter 10: Python Math Library**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html)
+
+## [**Chapter 11: Collections**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html)
+
+## [Chapter 12: Collections](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html)
