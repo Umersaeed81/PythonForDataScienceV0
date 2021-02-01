@@ -8,7 +8,8 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 **Address:** Dream Gardens,Defence Road, Lahore<br>
 <h1 align="center">Python for Data Science</h1>
  <img src="https://www.python.org/static/img/python-logo.png" align="center"/>
- **Acknowledgments**<br>
+ 
+ **Acknowledgments**
 
 I am deeply thankful to my advisors [**Dr. Shahid Mahmood Awan**](https://uk.linkedin.com/in/shahidmawan) and [**Dr. Bilal Wajid**](https://www.linkedin.com/in/dr-bilal-wajid-98949276/) for his inspiration and guidance throughout my studies at the [Department of Information System](https://sbe.umt.edu.pk/iss1/home.aspx), [School of Business and Economics](sbe.umt.edu.pk), [University of Management & Technology](www.umt.edu.pk). In the past 2 Years, his invaluable support and directions always helped me improve professional and academic skills. It has been an honor being his student.
 
