@@ -17,14 +17,14 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 # <h1 align="center"> Table of contents
 
-- [**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html)
+- ##[**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html)
 
 
-- ## [**Chapter 2: Variables, Expressions and Statements**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter2.html)
+- ##[**Chapter 2: Variables, Expressions and Statements**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter2.html)
 
-- ## [**Chapter 3:  Python Numbers**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html)
+- ##[**Chapter 3:  Python Numbers**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html)
 
-- ## [**Chapter 4:  Python String**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html)
+- ##[**Chapter 4:  Python String**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html)
 
 - ## [**Chapter 5:  Python Collections**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html)
 
