@@ -16,3 +16,16 @@ I am deeply thankful to my advisors [**Dr. Shahid Mahmood Awan**](https://uk.lin
 I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com/in/irfan-kareem-a89ba021/), [**Mr.Muneeb Ul Haque**](https://www.linkedin.com/in/muneeb-ul-haque-86551728/), [**Mr.Mansoor Waheed**](https://www.linkedin.com/in/mansoor-waheed-26925021/), [**Mr.Bilal Iqbal**](https://www.linkedin.com/in/bilal-iqbal-5354a324/) & [**Mr.AbdulRehman Azam**](https://www.linkedin.com/in/areh-azam/) for their friendship and help.
 
 # <h1 align="center"> Table of contents
+
+## [Chapter 1: Introduction to Python](Chapter1.html)
+## [Chapter 2: Variables, Expressions and Statements](Chapter2.html)
+## [Chapter 3:  Python Numbers](Chapter3.html)
+## [Chapter 4:  Python String](Chapter4.html)
+## [Chapter 5:  Python Collections](Chapter5.html)
+## [Chapter 6:  Conditional-Execution](Chapter6.html)
+## [Chapter 7:  User Define Functions](Chapter7.html)
+## [Chapter 8:  Python Loops](Chapter8.html)
+## [Chapter 9:  Python File Handling](Chapter9.html)
+## [Chapter 10: Python Math Library](Chapter10.html)
+## [Chapter 11: Collections](Chapter11.html)
+## [Chapter 12: Collections](Chapter12.html)
