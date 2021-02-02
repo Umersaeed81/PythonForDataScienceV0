@@ -463,3 +463,5 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 12.10 [shuffle](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.10-shuffle)
   - 12.11 [random seed](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.11-random-seed)
   - 12.12 [getrandbits](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.12-getrandbits)
+  
+  umer
