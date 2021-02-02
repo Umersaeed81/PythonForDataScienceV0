@@ -312,6 +312,15 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 6.3 [Nested Statements]()
 
 - ## [**Chapter 7:  User Define Functions**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html)
+  - 7.1 [Functions]()
+    - 7.1.1 [Function Parameters]()
+    - 7.1.2 [Local Variables]()
+    - 7.1.3 [The global statement]()
+    - 7.1.4 [Default Argument Values]()
+    - 7.1.5 [Keyword Arguments]()
+    - 7.1.6 [The return statement]()
+    - 7.1.7 [DocStrings]()
+    - 7.1.8 [lambda]()
 
 - ## [**Chapter 8:  Python Loops**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html)
 
