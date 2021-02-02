@@ -204,12 +204,12 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 - ## [**Chapter 5:  Python Collections**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html)
 
-  - 5.1 [List]()
-    - 5.1.1 [Nested List]()
-    - 5.1.2 [Empty List]()
-    - 5.1.3 [List slices]()
-    - 5.1.4 [Lists are mutable]()
-    - 5.1.5 [Python List Operations]()
+  - 5.1 [List](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1-Lists)
+    - 5.1.1 [Nested List](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.1-Nested-List)
+    - 5.1.2 [Empty List](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.2-Empty-List)
+    - 5.1.3 [List slices](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.3-List-slices)
+    - 5.1.4 [Lists are mutable](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.4-Lists-are-mutable)
+    - 5.1.5 [Python List Operations](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5-Python-List-Operations)
       - 5.1.5.1 [in]()
       - 5.1.5.2 [not in]()
       - 5.1.5.3 [concatenates list]()
