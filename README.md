@@ -306,10 +306,10 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 5.9 [Summary]()
 
 - ## [**Chapter 6:  Conditional-Execution**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html)
-  - 6.1 [if statements]()
-  - 6.2 [if else Statements]()
-    - 6.2.1 [elif Statements]()
-  - 6.3 [Nested Statements]()
+  - 6.1 [if statements](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html#6.1-if-statements)
+  - 6.2 [if else Statements](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html#6.2-if-else-statements)
+    - 6.2.1 [elif Statements](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html#6.2.1-elif-statements)
+  - 6.3 [Nested Statements](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter6.html#6.3-Nested-Statements)
 
 - ## [**Chapter 7:  User Define Functions**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html)
   - 7.1 [Functions]()
