@@ -313,11 +313,11 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 - ## [**Chapter 7:  User Define Functions**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html)
   - 7.1 [Functions](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1-Functions)
-    - 7.1.1 [Function Parameters](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.1-Functions-Parameters)
+    - 7.1.1 [Function Parameters](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.1-Function-Parameters)
     - 7.1.2 [Local Variables](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.2-Local-Variables)
     - 7.1.3 [The global statement](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.3-The-global-statement)
     - 7.1.4 [Default Argument Values](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.4-Default-Argument-Values)
-    - 7.1.5 [Keyword Arguments](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.5-Keyword-Argument)
+    - 7.1.5 [Keyword Arguments](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.5-Keyword-Arguments)
     - 7.1.6 [The return statement](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.6-The-return-statement)
     - 7.1.7 [DocStrings](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.7-DocStrings)
     - 7.1.8 [lambda](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter7.html#7.1.8-lambda)
