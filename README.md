@@ -296,7 +296,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 5.4.18 [symmetric_difference_update](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.18-symmetric_difference_update)
     - 5.4.19 [union](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.19-union)
     - 5.4.20 [issuperset](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.20-issuperset)
-    - 5.4.21 [Set Methods](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.21-Set-Method)
+    - 5.4.21 [Set Methods](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.21-Set-Methods)
   - 5.5 [frozenset](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.5-frozenset)
   - 5.6 [Ranges](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.6-Ranges)
   - 5.7 [Bytes](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.7-Bytes)
