@@ -301,7 +301,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 5.6 [Ranges](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.6-Ranges)
   - 5.7 [Bytes](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.7-Bytes)
     - 5.7.1 [Empty Bytes](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.7.1-Empty-Bytes)
-  - 5.8 [bytearray](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.8-bytearry)
+  - 5.8 [bytearray](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.8-bytearray)
     - 5.8.1 [empty bytearray](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.8.1-empty-bytearray)
   - 5.9 [Summary](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.9-Summary)
 
@@ -464,4 +464,4 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 12.11 [random seed](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.11-random-seed)
   - 12.12 [getrandbits](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.12-getrandbits)
   
-  umer
+
