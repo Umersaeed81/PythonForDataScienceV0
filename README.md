@@ -282,7 +282,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 5.4.4 [update](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.4-update)
     - 5.4.5 [Length of a Set](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.5-Length-of-a-Set)
     - 5.4.6 [remove](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.6-remove)
-    - 5.4.7 [discard](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.7-dicard)
+    - 5.4.7 [discard](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.7-discard)
     - 5.4.8 [pop](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.8-pop)
     - 5.4.9 [clear](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.9-clear)
     - 5.4.10 [copy](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.10-copy)
