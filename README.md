@@ -192,7 +192,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 4.3.52 [maketrans](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.3.52-maketrans)
     - 4.3.53 [translate](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.3.53-translate)
   - 4.4 [String Formatting Operator](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.4-String-Formatting-Operator)
-    - 4.4.1 [Basic formatting for default, positional and keyword arguments](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.4.1-Basic-formatting-for-default,-positional-and-keyword arguments)
+    - 4.4.1 [Basic formatting for default, positional and keyword arguments](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.4.1-Basic-formatting-for-default,-positional-and-keyword-arguments)
     - 4.4.2 [Simple number formatting](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.4.2-Simple-number-formatting) 
     - 4.4.3 [Number formatting with padding for int and floats](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.4.3-Number-formatting-with-padding-for-int-and-floats) 
     - 4.4.4 [Number formatting for signed numbers](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.4.4-Number-formatting-for-signed-numbers)
