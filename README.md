@@ -276,7 +276,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 5.3.12 [Swap tuple elements in list of tuples](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.3.12-Swap-tuple-elements-in-list-of-tuples)
     - 5.3.13 [Sort tuple elements in list of tuples](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.3.13-Sort-tuple-elements-in-list-of-tuple)
   - 5.4 [Set](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4-Set)
-    - 5.4.1 [Create a Set](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.1-Create-a-set)
+    - 5.4.1 [Create a Set](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.1-Create-a-Set)
     - 5.4.2 [empty set](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.2-empty-set)
     - 5.4.3 [Add Items](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.3-Add-Items)
     - 5.4.4 [update](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.4.4-update)
