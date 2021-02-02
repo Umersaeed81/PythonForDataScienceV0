@@ -23,8 +23,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 1.3 [Open source Software Characteristics](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.3-Open-source-Software-Characteristics)
   - 1.4 [Python History](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.4-Python-History)
     - 1.4.1 [Python Documentation by Version](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.4.1-Python-Documentation-by-Version)
-  - 1.5 [Characteristics and Features of Python](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html
-#1.5-Characteristics-and-Features-of-Python)
+  - 1.5 [Characteristics and Features of Python](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.5-Characteristics-and-Features-of-Python)
     - 1.5.1 [Disadvantages](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.5.1-Disadvantages)
     - 1.5.2 [REPL](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.5.2-REPL)
   - 1.6 [Python Overview](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.6-Python-Overview)
