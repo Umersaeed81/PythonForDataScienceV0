@@ -344,7 +344,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 9.4 [Change working Path](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.4-Change-working-Path)
   - 9.5 [List Current Directory](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.5-List-Current-Directory)
   - 9.6 [Make a new Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.6-Make-a-new-Directory-in-Current-Directory)
-  - 9.7 [Delete Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.7-Delete-Directory-in-Current Directory)
+  - 9.7 [Delete Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.7-Delete-Directory-in-Current-Directory)
   - 9.8 [Rename Directory in Current Directory](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.8-Rename-Directory-in-Current-Directory)
   - 9.9 [Rename File](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.9-Rename-File)
   - 9.10 [stat in os](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.10-stat-in-os)
