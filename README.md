@@ -127,9 +127,9 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 - ## [**Chapter 4:  Python String**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html)
 
-  - 4.1 [Pyhon String]()
-    - 4.1.1 [Rules Applied in String Construction]()
-    - 4.1.2 [Special Case]()
+  - 4.1 [Pyhon String](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.1-Pyhon-String)
+    - 4.1.1 [Rules Applied in String Construction](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.1.1-Rules-Applied-in-String-Construction)
+    - 4.1.2 [Special Case](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html#4.1.2-Special-Case)
   - 4.2 [Escape Sequence]()
     - 4.2.1 [\newline]()
     - 4.2.2 [\a]()
