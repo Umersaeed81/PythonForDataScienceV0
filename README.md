@@ -350,7 +350,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 9.10 [stat in os](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.10-stat-in-os)
     - 9.10.1 [Size of the File](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.10.1-Size-of-the-File)
     - 9.10.2 [Time of the Last Modification](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.10.2-Time-of-the-Last-Modification)
-  - 9.11 [walk](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.11-Walk)
+  - 9.11 [walk](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.11-walk)
   - 9.12 [Exists Path](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.12-Exists-Path)
   - 9.13 [isdir](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.13-isdir)
   - 9.14 [isfile](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html#9.14-isfile)
