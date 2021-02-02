@@ -324,6 +324,19 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 - ## [**Chapter 8:  Python Loops**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html)
 
+  - 8.1 [while loop]()
+    - 8.1.1 [A while Loop with else]()
+    - 8.1.2 [Positioning the Counter Increment]()
+    - 8.1.3 [The break Statement]()
+    - 8.1.4 [The continue Statement]()
+  - 8.2 [for loop]()
+    - 8.2.1 [break statment]()
+    - 8.2.2 [The continue Statement]()
+    - 8.2.3 [The range Function]()
+    - 8.2.4 [A for Loop with else]()
+    - 8.2.5 [Nested for loops]()
+    - 8.2.6 [Pass Statment]()
+
 - ## [**Chapter 9:  Python File Handling**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter9.html)
 
 - ## [**Chapter 10: Python Math Library**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html)
