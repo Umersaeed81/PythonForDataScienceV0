@@ -18,28 +18,28 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 # <h1 align="center"> Table of contents
 
 - ## [**Chapter 1: Introduction to Python**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html)
-  - 1.1 [Programming basics]
-  - 1.2 [Reasons to become a Python Developer]
-  - 1.3 [Open source Software Characteristics[
-  - 1.4 [Python History[
-    - 1.4.1 [Python Documentation by Version]
-  - 1.5 [Characteristics and Features of Python]
-    - 1.5.1 [Disadvantages]
-    - 1.5.2 [REPL]
-  - 1.6 [Python Overview]
-  - 1.7 [What is Anaconda, Jupyter Notebook and Spyder in Python]
-    - 1.7.1 [Installing Anaconda on Windows]
-  - 1.8 [Python IDE]
-  - 1.9 [Jupyter Notebook]
-    - 1.9.1 [How to use Jupter Notebook]
-    - 1.9.2 [How to Make a Folder in Jupyter]
-    - 1.9.3 [How to rename a Folder in Jupyter]
-    - 1.9.4 [How to Make a File in Jupyter]
-    - 1.9.5 [How to rename a File in Jupyter]
-  - 1.10 [How to check the installed version of Python] 
-  - 1.11 [How to check the Libraries version use in the Current Jupter Notebook]
-    - 1.11.1 [Install watermark]
-    - 1.11.2 [Libraries version]
+  - 1.1 [Programming basics]()
+  - 1.2 [Reasons to become a Python Developer]()
+  - 1.3 [Open source Software Characteristics]()
+  - 1.4 [Python History]()
+    - 1.4.1 [Python Documentation by Version]()
+  - 1.5 [Characteristics and Features of Python]()
+    - 1.5.1 [Disadvantages]()
+    - 1.5.2 [REPL]()
+  - 1.6 [Python Overview]()
+  - 1.7 [What is Anaconda, Jupyter Notebook and Spyder in Python]()
+    - 1.7.1 [Installing Anaconda on Windows]()
+  - 1.8 [Python IDE]()
+  - 1.9 [Jupyter Notebook]()
+    - 1.9.1 [How to use Jupter Notebook]()
+    - 1.9.2 [How to Make a Folder in Jupyter]()
+    - 1.9.3 [How to rename a Folder in Jupyter]()
+    - 1.9.4 [How to Make a File in Jupyter]()
+    - 1.9.5 [How to rename a File in Jupyter]()
+  - 1.10 [How to check the installed version of Python]()
+  - 1.11 [How to check the Libraries version use in the Current Jupter Notebook]()
+    - 1.11.1 [Install watermark]()
+    - 1.11.2 [Libraries version]()
 
 - ## [**Chapter 2: Variables, Expressions and Statements**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter2.html)
 
