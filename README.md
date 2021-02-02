@@ -324,7 +324,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 - ## [**Chapter 8:  Python Loops**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html)
 
-  - 8.1 [while loop](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html#8.1-while-loo9)
+  - 8.1 [while loop](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html#8.1-while-loop)
     - 8.1.1 [A while Loop with else](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html#8.1.1-A-while-Loop-with-else)
     - 8.1.2 [Positioning the Counter Increment](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html#8.1.2-Positioning-the-Counter-Increment)
     - 8.1.3 [The break Statement](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter8.html#8.1.3-The-break-Statement)
