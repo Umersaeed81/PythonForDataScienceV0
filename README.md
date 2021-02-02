@@ -422,7 +422,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 11.2.16 [reduced count](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.16-reduced-count)
     - 11.2.17 [subtract](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.17-subtract)
     - 11.2.18 [minus](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.18-minus)
-    - 11.2.19 [Acccss Counter Elements](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.19-Access-Counter-Elements)
+    - 11.2.19 [Acccss Counter Elements](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.19-Acccss-Counter-Elements)
     - 11.2.20 [convert to a set](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.20-convert-to-a-set)
     - 11.2.21 [convert to a regular dictionary](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.21-convert-to-a-regular-dictionary)
     - 11.2.22 [addition](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter11.html#11.2.22-addition)
