@@ -120,9 +120,9 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
       - 3.4.6.3 [Binary XOR](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.6.3-Binary-XOR)
       - 3.4.6.4 [Binary Left Shift](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.6.4-Binary-Left-Shift)
       - 3.4.6.5 [Binary Right Shift](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.6.5-Binary-Right-Shift)
-    - 3.4.7 [Membership Operators]()
-      - 3.4.7.1 [in]()
-      - 3.4.7.2 [not in]()
+    - 3.4.7 [Membership Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.7-Membership-Operators)
+      - 3.4.7.1 [in](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.7.1-in)
+      - 3.4.7.2 [not in](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.7.2-not-in)
   - 3.5 [Functions related to ASCII conversion](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.5-Functions-related-to-ASCII-conversion)
 
 - ## [**Chapter 4:  Python String**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter4.html)
