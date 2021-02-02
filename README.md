@@ -358,8 +358,8 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 9.16 [os Available Methods]()
 
 - ## [**Chapter 10: Python Math Library**](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html)
-  - 10.1 [Import Library for Math Functions()
-  - 10.2 [Power and Logarithmic Functions()
+  - 10.1 [Import Library for Math Functions]()
+  - 10.2 [Power and Logarithmic Functions]()
     - 10.2.1 [e]()
     - 10.2.2 [exp]()
     - 10.2.3 [expm1]()
