@@ -451,7 +451,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 - ## [Chapter 12: random](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html)
 
-  - 12.1 [Import random Library](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.1-Import random Library)
+  - 12.1 [Import random Library](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.1-Import-random-Library)
   - 12.2 [random](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.2-random)
   - 12.3 [uniform](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.3-uniform)
   - 12.4 [randint](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.4-randint)
