@@ -107,7 +107,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
       - 3.4.3.4 [Less Than](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.3.4-Less-Than)
       - 3.4.3.5 [Greater Than Equal To](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.3.5-Greater-Than-Equal-To)
       - 3.4.3.6 [Less Than Equal To](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.3.6-Less-Than-Equal-To)
-    - 3.4.4 [Logical Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.4-not)
+    - 3.4.4 [Logical Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.4-Logical-Operators)
       - 3.4.4.1 [not](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.4.1-not)
       - 3.4.4.2 [and](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.4.2-and)
       - 3.4.4.3 [or](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.4.3-or)
