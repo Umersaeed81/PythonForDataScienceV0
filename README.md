@@ -35,7 +35,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 1.9.2 [How to Make a Folder in Jupyter](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.9.2-How-to-Make-a-Folder-in-Jupyter)
     - 1.9.3 [How to rename a Folder in Jupyter](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.9.3-How-to-rename-a-Folder-in-Jupyter)
     - 1.9.4 [How to Make a File in Jupyter](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.9.4-How-to-Make-a-File-in-Jupyter)
-    - 1.9.5 [How to rename a File in Jupyter (https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.9.5-How-to-rename-a-File-in-Jupyter)
+    - 1.9.5 [How to rename a File in Jupyter](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.9.5-How-to-rename-a-File-in-Jupyter)
   - 1.10 [How to check the installed version of Python](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.10-How-to-check-the-installed-version-of-Python)
   - 1.11 [How to check the Libraries version use in the Current Jupter Notebook](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.11-How-to-check-the-Libraries-version-use-in-the-Current-Jupter-Notebook)
     - 1.11.1 [Install watermark](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter1.html#1.11.1-Install-watermark)
