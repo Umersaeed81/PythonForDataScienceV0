@@ -367,7 +367,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 10.2.5 [log1p](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.2.5-log1p)
     - 10.2.6 [log2](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.2.6-log2)
     - 10.2.7 [log10](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.2.7-log10)
-    - 10.2.8 [pow]log10.8-pow)
+    - 10.2.8 [pow](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.2.8-pow)
   - 10.3 [Trigonometric Functions](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.3-Trigonometric-Functions)
     - 10.3.1 [Return the cosine of x radians](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.3.1-Return-the-cosine-of-x-radians)
     - 10.3.2 [Return the sine of x radians](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter10.html#10.3.2-Return-the-sine-of-x-radians)
