@@ -210,7 +210,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 5.1.3 [List slices](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.3-List-slices)
     - 5.1.4 [Lists are mutable](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.4-Lists-are-mutable)
     - 5.1.5 [Python List Operations](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5-Python-List-Operations)
-      - 5.1.5.1 [in](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5.1-in
+      - 5.1.5.1 [in](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5.1-in)
       - 5.1.5.2 [not in](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5.2-not-in)
       - 5.1.5.3 [concatenates list](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5.3-concatenates-list)
       - 5.1.5.4 [extend](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter5.html#5.1.5.4-extend)
