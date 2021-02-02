@@ -82,7 +82,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 3.3.1 [Special Note](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.3.1-Special-Note)
     - 3.3.2 [Python Expressions](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.3.2-Python-Expressions)
     - 3.3.3 [Order of Operations](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.3.3-Order-of-Operations)
-  - 3.4 [Types of Python Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.3.4-Types-of-Python-Operators)
+  - 3.4 [Types of Python Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4-Types-of-Python-Operators)
     - 3.4.1 [Arithmetic Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.1-Arithmetic-Operators)
       - 3.4.1.1 [Addition](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.1.1-Addition)
       - 3.4.1.2 [Subtraction](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.1.2-Subtraction)
