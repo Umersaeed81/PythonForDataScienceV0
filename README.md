@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28Mw_N6RTuNvdbw3UShxAHfWHyZ2qMgkjSdnVRO4Qo-8TYqip4w" alt="Smiley face" align="right">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28Mw_N6RTuNvdbw3UShxAHfWHyZ2qMgkjSdnVRO4Qo-8TYqip4w" alt="Smiley face" align="center">
 
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="right"/>
 Sr. RF Planning & Optimization Engineer<br>
