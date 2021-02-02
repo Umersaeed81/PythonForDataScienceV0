@@ -450,3 +450,16 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
 
 
 - ## [Chapter 12: random](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html)
+
+  - 12.1 [Import random Library]()
+  - 12.2 [random]()
+  - 12.3 [uniform]()
+  - 12.4 [randint]()
+  - 12.5 [randrange]()
+  - 12.6 [normalvariate]()
+  - 12.7 [choice]()
+  - 12.8 [sample]()
+  - 12.9 [choices]()
+  - 12.10 [shuffle]()
+  - 12.11 [random seed]()
+  - 12.12 [getrandbits]()
