@@ -117,6 +117,7 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
     - 3.4.5 [Identity Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.5-Identity-Operators)
       - 3.4.5.1 [is](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.5.1-is)
       - 3.4.5.2 [is not](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.5.2-is-not)
+      - 3.4.5.3 [difference between is and ==](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.5.3-difference-between-is-and-==)
     - 3.4.6 [Bitwise Operators](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.6-Bitwise-Operators)
       - 3.4.6.1 [Binary AND](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.6.1-Binary-AND)
       - 3.4.6.2 [Binary OR](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter3.html#3.4.6.2-Binary-OR)
