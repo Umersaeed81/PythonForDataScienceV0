@@ -11,7 +11,8 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 **Email:**  umersaeed81@hotmail.com<br>
 **Address:** Dream Gardens,Defence Road, Lahore<br>
 
-<img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="left"/>  <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="center"/> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="right"/>
+<img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="left"/>  <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="center"/> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="right"/> <img src="https://sen.umt.edu.pk/style/images/sen-logo.png" align="right"/>
+
 
 
 
