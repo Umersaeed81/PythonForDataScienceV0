@@ -14,6 +14,18 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="center"/> <img src="https://sen.umt.edu.pk/style/images/sen-logo.png" align="right"/>
 
 
+<div class="row">
+  <div class="column">
+    <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://sen.umt.edu.pk/style/images/sen-logo.png" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
 
 
 <h1 align="center">Python for Data Science</h1>
