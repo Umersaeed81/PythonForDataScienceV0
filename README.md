@@ -1,6 +1,6 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28Mw_N6RTuNvdbw3UShxAHfWHyZ2qMgkjSdnVRO4Qo-8TYqip4w" alt="Smiley face" align="center">
 
-<img src="https://miro.medium.com/max/700/1*RJMxLdTHqVBSijKmOO5MAg.jpeg" alt="Smiley face" align="center" width="1000" height="350">
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200711122552/Python-Programming-Language.png" align="center" alt="Girl in a jacket" width="1000" height="350" align="center"/>
 
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="right"/>              
 Sr. RF Planning & Optimization Engineer<br>
@@ -16,7 +16,7 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <h1 align="center"> An Introduction to the Python Language For Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200711122552/Python-Programming-Language.png" align="center" alt="Girl in a jacket" width="1000" height="350" align="center"/>
+
 
  # Acknowledgments
 
