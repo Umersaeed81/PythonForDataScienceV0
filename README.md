@@ -2,18 +2,18 @@
 
 <img src="https://miro.medium.com/max/700/1*E1haIGB9K4K89PsFZgm-pw.jpeg" alt="Smiley face" align="center" width="1000" height="350">
 
-#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            
+#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/>              
 Sr. RF Planning & Optimization Engineer<br>
 BSc Telecommunications Engineering, [School of Engineering](https://sen.umt.edu.pk/)<br>
 MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
-**[University of Management & Technology, Lahore, Pakistan](www.umt.edu.pk)**<br>
+**[University of Management & Technology, Lahore, Pakistan](www.umt.edu.pk)**<br> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="right"/> 
 **Mobile:**     +923018412180<br>
 **Email:**  umersaeed81@hotmail.com<br>
-**Address:** Dream Gardens,Defence Road, Lahore<br> <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/>              <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="right"/> 
+**Address:** Dream Gardens,Defence Road, Lahore<br> 
 
 
 
-# <h1 align="center"> An Introduction to the Python Language For Data Science</h1>
+<h1 align="center"> An Introduction to the Python Language For Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
 <img src="https://i.morioh.com/d0d79cbc80.png" align="center" alt="Girl in a jacket" width="1000" height="350">
