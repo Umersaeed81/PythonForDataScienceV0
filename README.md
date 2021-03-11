@@ -12,7 +12,8 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 **Address:** Dream Gardens,Defence Road, Lahore<br>
 <h1 align="center">Python for Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
- <img src=" https://i.morioh.com/d0d79cbc80.png" align="center"/>
+
+<img src=" https://i.morioh.com/d0d79cbc80.png" align="center"/>
  
 
  **Acknowledgments**
