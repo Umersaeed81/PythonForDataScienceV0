@@ -14,7 +14,8 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <h2 align="center">First Edition - Volume 1</h2>
 
 <img src="https://i.morioh.com/d0d79cbc80.png" align="center"/ width="500" height="600">
- 
+
+<img src="https://i.morioh.com/d0d79cbc80.png" alt="Girl in a jacket" width="200" height="200">
 
  **Acknowledgments**
 
