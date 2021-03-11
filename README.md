@@ -487,3 +487,4 @@ I am very grateful to my friends [**Mr. Irfan Kareem**](https://www.linkedin.com
   - 12.12 [getrandbits](https://htmlpreview.github.io/?https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/Chapter12.html#12.12-getrandbits)
   
 
+<img src="https://cache.pakistantoday.com.pk/01-26.png" align="left" alt="Girl in a jacket" width="300" height="300">
