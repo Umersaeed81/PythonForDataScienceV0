@@ -10,10 +10,10 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 **Mobile:**     +923018412180<br>
 **Email:**  umersaeed81@hotmail.com<br>
 **Address:** Dream Gardens,Defence Road, Lahore<br>
-<img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="right"/> 
+<img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/>              <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="right"/> 
 
 
-<h1 align="center">Python 3- An Introduction to the Python Language For Data Science</h1>
+# <h1 align="center">Python 3- An Introduction to the Python Language For Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
 <img src="https://i.morioh.com/d0d79cbc80.png" align="center" alt="Girl in a jacket" width="1000" height="350">
