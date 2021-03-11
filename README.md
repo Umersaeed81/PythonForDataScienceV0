@@ -16,7 +16,7 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <h1 align="center"> An Introduction to the Python Language For Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
-<img src="https://miro.medium.com/max/700/1*zyMeNJPrtOs99YdJuV2GuQ.jpeg" align="center" alt="Girl in a jacket" width="800" height="350">
+<img src="https://miro.medium.com/max/700/1*zyMeNJPrtOs99YdJuV2GuQ.jpeg" align="center" alt="Girl in a jacket" width="800" height="350" align="center"/>
 
  # Acknowledgments
 
