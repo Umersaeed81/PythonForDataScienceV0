@@ -2,7 +2,7 @@
 
 <img src="https://admin.umt.edu.pk/Media/Site/SBE1/SubSites/iss1/PageBanner/637475353769229753922.jpg" alt="Smiley face" align="center">
 
-#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="right"/>
+#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            
 Sr. RF Planning & Optimization Engineer<br>
 BSc Telecommunications Engineering, [School of Engineering](https://sen.umt.edu.pk/)<br>
 MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
@@ -13,7 +13,7 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <h1 align="center">Python for Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
-<img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="left"/>  <img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="rigth"/>
+<img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="left"/>  <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="rigth"/>
 
 <img src="https://i.morioh.com/d0d79cbc80.png" align="center" alt="Girl in a jacket" width="1000" height="350">
 
