@@ -14,8 +14,8 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="center"/> <img src="https://sen.umt.edu.pk/style/images/sen-logo.png" align="right"/>
 
 
-<div class="row">
-  <div class="column">
+<div class="column">
+  <div class="row">
     <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Snow" style="width:100%">
   </div>
   <div class="column">
