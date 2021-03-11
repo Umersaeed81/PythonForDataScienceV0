@@ -13,7 +13,7 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <h1 align="center">Python for Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
-<img src="https://i.morioh.com/d0d79cbc80.png" align="center"/ width="500" height="600">
+<img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="left"/>  <img src="https://www.umt.edu.pk/style/images/umt-logo.jpg" align="rigth"/>
 
 <img src="https://i.morioh.com/d0d79cbc80.png" align="center" alt="Girl in a jacket" width="1000" height="350">
 
