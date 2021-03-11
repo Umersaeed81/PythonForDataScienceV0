@@ -2,7 +2,7 @@
 
 <img src="https://miro.medium.com/max/700/1*E1haIGB9K4K89PsFZgm-pw.jpeg" alt="Smiley face" align="center" width="1000" height="350">
 
-#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/>              
+#  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="right"/>              
 Sr. RF Planning & Optimization Engineer<br>
 BSc Telecommunications Engineering, [School of Engineering](https://sen.umt.edu.pk/)<br>
 MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
