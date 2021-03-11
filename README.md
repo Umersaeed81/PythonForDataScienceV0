@@ -14,20 +14,6 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="left"/> <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" align="center"/> <img src="https://sen.umt.edu.pk/style/images/sen-logo.png" align="right"/>
 
 
-<div class="column">
-  <div class="row">
-    <img src="https://sbe.umt.edu.pk/style/images/sbe.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://sst.umt.edu.pk/style/images/sst-logo.png" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://sen.umt.edu.pk/style/images/sen-logo.png" alt="Mountains" style="width:100%">
-  </div>
-</div>
-
-
-
 <h1 align="center">Python for Data Science</h1>
 <h2 align="center">First Edition - Volume 1</h2>
 
@@ -35,7 +21,7 @@ MS Data Science, [School of Business and Economics](sbe.umt.edu.pk)<br>
 
 <img src="https://i.morioh.com/d0d79cbc80.png" align="center" alt="Girl in a jacket" width="1000" height="350">
 
- **Acknowledgments**
+ # Acknowledgments
 
 I am deeply thankful to my advisors [**Dr. Shahid Mahmood Awan**](https://uk.linkedin.com/in/shahidmawan) and [**Dr. Bilal Wajid**](https://www.linkedin.com/in/dr-bilal-wajid-98949276/) for his inspiration and guidance throughout my studies at the [Department of Information System](https://sbe.umt.edu.pk/iss1/home.aspx), [School of Business and Economics](sbe.umt.edu.pk), [University of Management & Technology](www.umt.edu.pk). In the past 2 Years, his invaluable support and directions always helped me improve professional and academic skills. It has been an honor being his student.
 
