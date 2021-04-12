@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/E1_V1.png" align="center" alt="Girl in a jacket" width="1000" height="1000" align="center"/>
+<img src="https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/E1_V1.png" align="center" alt="Girl in a jacket" width="800" height="1000" align="center"/>
 
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="right"/>              
 Sr. RF Planning & Optimization Engineer<br>
