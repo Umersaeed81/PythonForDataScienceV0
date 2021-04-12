@@ -1,8 +1,8 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS28Mw_N6RTuNvdbw3UShxAHfWHyZ2qMgkjSdnVRO4Qo-8TYqip4w" alt="Smiley face" align="center">
 
 
 
-<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200711122552/Python-Programming-Language.png" align="center" alt="Girl in a jacket" width="1000" height="350" align="center"/>
+
+<img src="https://github.com/Umersaeed81/PythonForDataScienceV0/blob/main/E1_V1.png" align="center" alt="Girl in a jacket" width="1000" height="350" align="center"/>
 
 #  [Umer Saeed](https://www.linkedin.com/in/engumersaeed/)            <img src="https://sbe.umt.edu.pk/style/images/sbe.png" align="right"/>              
 Sr. RF Planning & Optimization Engineer<br>
